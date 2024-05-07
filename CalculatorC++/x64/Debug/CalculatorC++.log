@@ -1,0 +1,6 @@
+﻿  CalculatorC++.cpp
+C:\Users\24070\source\repos\CalculatorC++\CalculatorC++\CalculatorC++.cpp(89,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\24070\source\repos\CalculatorC++\CalculatorC++\CalculatorC++.cpp(100,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\24070\source\repos\CalculatorC++\CalculatorC++\CalculatorC++.cpp(111,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\24070\source\repos\CalculatorC++\CalculatorC++\CalculatorC++.cpp(160,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  CalculatorC++.vcxproj -> C:\Users\24070\source\repos\CalculatorC++\x64\Debug\CalculatorC++.exe
